@@ -1,0 +1,34 @@
+language: cpp
+compiler: gcc
+
+before_install:
+  # C++17
+  - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+  - sudo apt-get update -qq
+  # OCLint
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/install_oclint
+  - chmod +x install_oclint 
+  - ./install_oclint
+
+install: 
+  # C++17
+  - sudo apt-get install -qq g++-7
+  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-7 90
+  # cppcheck
+  - sudo apt-get install -qq cppcheck
+
+script: 
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/main.pro
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/build
+  - chmod +x build
+  - ./build
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/test
+  - chmod +x test
+  - ./test
+  # cppcheck
+  - cppcheck --quiet --error-exitcode=1 . 
+  # OCLint
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/do_oclint
+  - chmod +x do_oclint
+  - ./do_oclint
+
