@@ -18,17 +18,17 @@ install:
   - sudo apt-get install -qq cppcheck
 
 script: 
-  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/main.pro
-  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/build
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/main.pro
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/build
   - chmod +x build
   - ./build
-  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/test
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/test
   - chmod +x test
   - ./test
   # cppcheck
   - cppcheck --quiet --error-exitcode=1 . 
   # OCLint
-  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello_world/do_oclint
+  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/do_oclint
   - chmod +x do_oclint
   - ./do_oclint
 
