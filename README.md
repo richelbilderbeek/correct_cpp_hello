@@ -14,10 +14,7 @@ Write any program that compiles cleanly. Feel free to just copy-paste this code 
 int main() {}
 ```
 
-## Tips
-
  * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/fork_a_chapter.md) for help
-
  * After this, you will need to clone that fork. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/fork_a_chapter.md) for help
  * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_the_exercise.md) for help
  * Done with the exercise? Push your code! See [Push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/push_your_code.md) for help
