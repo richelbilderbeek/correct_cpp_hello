@@ -16,11 +16,12 @@ int main() {}
 
 ## Tips
 
- * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/fork_a_chapter.md) for help
- * After this, you will need to clone that fork. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/fork_a_chapter.md) for help
- * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](do_the_exercise.md) for help
- * Done with the exercise? Push your code! See [Push your code](push_your_code.md) for help
- * Is your solution pushed to your GitHub? Have you code corrected by [doing a pull request](do_a_pull_request.md)
+ * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/fork_a_chapter.md) for help
+
+ * After this, you will need to clone that fork. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/fork_a_chapter.md) for help
+ * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_the_exercise.md) for help
+ * Done with the exercise? Push your code! See [Push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/push_your_code.md) for help
+ * Is your solution pushed to your GitHub? Have you code corrected by [doing a pull request](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_a_pull_request.md)
 
 ## Advice
 
