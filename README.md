@@ -1,6 +1,10 @@
 # correct_cpp_hello
 
-[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello world'.
+Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
+---|---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_hello)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_hello/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_hello/branch/master)
+
+[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello'.
 
 ## Goal
 
@@ -31,7 +35,6 @@ int main() {}
 
 ## External links
 
- * [richelbilderbeek's Hello World page](https://github.com/richelbilderbeek/cpp/blob/master/content/CppHelloWorld.md)
  * [Qt Creator project file used in testing](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/main.pro)
 
 ## References
