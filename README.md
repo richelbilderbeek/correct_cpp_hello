@@ -4,7 +4,11 @@
 
 ## Goal
 
- * Understand the workflow of this course
+ * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/how_this_course_works.md)
+
+## Prerequisites
+
+ * None
 
 ## Exercise
 
