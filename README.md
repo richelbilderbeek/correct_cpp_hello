@@ -40,7 +40,7 @@ Your code must be correct, thus your code must:
 
 ## External links
 
- * [Qt Creator project file used in testing](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/hello/main.pro)
+ * [Qt Creator project file used in testing](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/shared/main.pro)
 
 ## References
 
