@@ -30,7 +30,7 @@ This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/
  * After this, you will need to clone that fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/clone_your_fork.md) for help
  * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_the_exercise.md) for help
  * Done with the exercise? Push your code! See [Push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/push_your_code.md) for help
- * Is your solution pushed to your GitHub? Have you code corrected by [doing a pull request](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_a_pull_request.md)
+ * Is your solution pushed to your GitHub? Let Travis [correct your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/correct_your_code.md)
 
 Your code must be correct, thus your code must:
 
