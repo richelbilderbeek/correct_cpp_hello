@@ -13,8 +13,6 @@ before_install:
   - echo $chapter_folder
   - test_path=https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/$chapter_folder/test
   - echo $test_path
-  # View g++ version
-  - g++ -v
   # C++17
   # - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
   # - sudo apt-get update -qq
