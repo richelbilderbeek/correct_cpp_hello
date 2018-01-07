@@ -8,7 +8,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello
 
 ## Goal
 
- * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/how_this_course_works.md)
+ * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
