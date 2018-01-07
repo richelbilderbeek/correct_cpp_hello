@@ -26,11 +26,13 @@ int main() {}
 
 This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
- * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
- * After this, you will need to clone that fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
- * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
- * Done with the exercise? Push your code! See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
- * Is your solution pushed to your GitHub? Let Travis [correct your GitHub](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/correct_your_github.md)
+  1. Login to [GitHub](https://github.com/)
+  2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
+  3. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/activate.md) for help 
+  4. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
+  5. On your local code, do the exercise. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
+  6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
+  7. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
 
 Your code must be correct, thus your code must:
 
