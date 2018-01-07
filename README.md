@@ -12,7 +12,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello
 
 ## Prerequisites
 
- * None
+ * Have created [your 'Correct C++' scoreboard](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
 
 ## Exercise
 
@@ -24,19 +24,19 @@ Feel free to just copy-paste this code to `main.cpp`:
 int main() {}
 ```
 
-This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/how_this_course_works.md):
+This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
- * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/fork_a_chapter.md) for help
- * After this, you will need to clone that fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/clone_your_fork.md) for help
- * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/do_the_exercise.md) for help
- * Done with the exercise? Push your code! See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/push_your_code.md) for help
- * Is your solution pushed to your GitHub? Let Travis [correct your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/correct_your_code.md)
+ * You will need to fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
+ * After this, you will need to clone that fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
+ * On the local code, modify `main.cpp` to a compiling program. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
+ * Done with the exercise? Push your code! See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
+ * Is your solution pushed to your GitHub? Let Travis [correct your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/correct_your_code.md)
 
 Your code must be correct, thus your code must:
 
  * compile cleanly at high warning levels [1,2] 
- * have [a low cyclomatic complexity](https://github.com/richelbilderbeek/correct_cpp/blob/master/lower_cyclomatic_complexity.md):
- * have [how a 100% code coverage](https://github.com/richelbilderbeek/correct_cpp/blob/master/get_100_percent_code_coverage.md):
+ * have [a low cyclomatic complexity](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/lower_cyclomatic_complexity.md):
+ * have [how a 100% code coverage](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/get_100_percent_code_coverage.md):
 
 ## External links
 
