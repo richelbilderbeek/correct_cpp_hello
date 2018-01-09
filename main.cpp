@@ -1,2 +1,1 @@
-/// hello main function
-int main() {}
+main() {}
