@@ -21,6 +21,7 @@ Write any program that is correct.
 Feel free to just copy-paste this code to `main.cpp`:
 
 ```c++
+/// This program does exactly nothing
 int main() {}
 ```
 
