@@ -33,9 +33,11 @@ This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/
   2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
   3. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/activate.md) for help 
   4. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
-  5. On your local code, do the exercise. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
+  5. On your local code, modify the `README.md`. See [modify README](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/modify_readme.md) for help
   6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
-  7. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
+  7. On your local code, do the exercise. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
+  8. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
+  9. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
 
 Your code must be correct, thus your code must:
 
