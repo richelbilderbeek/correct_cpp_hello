@@ -48,7 +48,6 @@ Your code must be correct, thus your code must:
 
 ## External links
 
- * [Download the Qt Creator file `main.pro`](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/shared/main.pro)
  * [Video how to do this chapter (mp4)](http://www.richelbilderbeek.nl/correct_cpp_hello.mp4)
 
 ## References
